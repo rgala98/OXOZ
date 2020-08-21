@@ -1,4 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## OXOZ
+[Oxoz](https://oxoz-46c81.web.app/) is a Search Engine inspired from Google.
+Built with React JS
+
+
+![Image of the project](https://imgur.com/a/vOBNfQB)
+![Image of the project2](https://imgur.com/a/ROUVFKn)
+
+Technologies:
+- ReactJS
+- ContextAPI
+- React Router
+- Custom React Hooks
+- Google Custom Search API
+- Material UI
+- Bootstrap
+
+Note:
+Please add a constants.js file with Google Custom Search API keys.
 
 ## Available Scripts
 

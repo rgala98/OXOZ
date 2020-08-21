@@ -3,8 +3,8 @@
 Built with React JS
 
 
-![Image of the project](https://imgur.com/a/vOBNfQB)
-![Image of the project2](https://imgur.com/a/ROUVFKn)
+![Image of the project](https://imgur.com/9fIu2vV)
+![Image of the project2](https://imgur.com/3JNvujh)
 
 Technologies:
 - ReactJS
